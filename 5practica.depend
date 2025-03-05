@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1731334900 source:d:\»»»\5practica\visuals.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<fstream>
+	<time.h>
+	"glut.h"
+	"visuals.h"
+
+1426336440 c:\users\wieze\desktop\ÕÓ‚‡ˇ Ô‡ÔÍ‡\freeglut-msvc-3.0.0-2.mp\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1437543942 c:\users\wieze\desktop\ÕÓ‚‡ˇ Ô‡ÔÍ‡\freeglut-msvc-3.0.0-2.mp\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1728300469 d:\»»»\5practica\visuals.h
+
+1728300471 source:d:\»»»\5practica\main.cpp
+	<math.h>
+	"glut.h"
+	<stdio.h>
+	<string.h>
+	"visuals.h"
+
+1426336440 d:\»»»\5practica\glut.h
+	"freeglut_std.h"
+
+1437543942 d:\»»»\5practica\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1708700017 c:\users\wieze\desktop\ÕÓ‚‡ˇ Ô‡ÔÍ‡\glfw-3.4.bin.win64\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<vulkan/vulkan.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<GL/glext.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glext.h>
+
+1728300471 source:d:\»»»\5practica\3dscene_solar_system\main.cpp
+	<math.h>
+	"glut.h"
+	<stdio.h>
+	<string.h>
+	"visuals.h"
+
+1426336440 d:\»»»\5practica\3dscene_solar_system\glut.h
+	"freeglut_std.h"
+
+1437543942 d:\»»»\5practica\3dscene_solar_system\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1728300469 d:\»»»\5practica\3dscene_solar_system\visuals.h
+
+1731334900 source:d:\»»»\5practica\3dscene_solar_system\visuals.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<fstream>
+	<time.h>
+	"glut.h"
+	"visuals.h"
+
